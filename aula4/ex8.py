@@ -20,6 +20,6 @@ def ex8(altura):
                 number = "0" + number
         for y in range(x):
             print(number, end="   ")
-        print("\n")
+        print("")
 
 ex8(40)
