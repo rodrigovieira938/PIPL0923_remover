@@ -1,0 +1,5 @@
+{
+	"nome": "x",
+	"idade": 1,
+	"email": "x"
+}
